@@ -16,8 +16,8 @@
     <div id="banner">
         <div class="container">
             <div class="title">
-                <h2>Etiam rhoncus volutpat</h2>
-                <span class="byline">Proin gravida porttitor accumsan</span> </div>
+                <h2>CREATE NEW DATA</h2>
+                <span class="byline">Insert new accident data into databse system.</span> </div>
             <ul class="actions">
                 <li><a href="#" class="button">Etiam posuere</a></li>
             </ul>
